@@ -1,4 +1,4 @@
-package org.mvtest.authserver;
+package org.mvtest.authserver.security;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
