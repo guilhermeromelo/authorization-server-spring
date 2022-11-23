@@ -1,6 +1,6 @@
 package org.mvtest.authserver.security;
 
-import org.mvtest.authserver.domain.model.UserRepository;
+import org.mvtest.authserver.domain.user.UserRepository;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;

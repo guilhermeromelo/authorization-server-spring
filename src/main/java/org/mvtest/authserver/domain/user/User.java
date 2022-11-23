@@ -1,4 +1,4 @@
-package org.mvtest.authserver.domain.model;
+package org.mvtest.authserver.domain.user;
 
 import javax.persistence.*;
 import java.util.Objects;

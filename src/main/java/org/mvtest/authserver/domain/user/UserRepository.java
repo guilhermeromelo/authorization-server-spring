@@ -1,4 +1,4 @@
-package org.mvtest.authserver.domain.model;
+package org.mvtest.authserver.domain.user;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
